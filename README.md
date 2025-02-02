@@ -1,5 +1,4 @@
-# 
-Work for the degree of PhD Geophysics, 2021 - 2025
+# Work for the degree of PhD Geophysics, 2021 - 2025
 
 Author: Sophia Baker
 
