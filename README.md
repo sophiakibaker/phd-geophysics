@@ -3,6 +3,7 @@
 Author: Sophia Baker
 
 Updated: 02/02/2025 - repository and readme created
+         14/02/2025 - EDI talk materials added
 
 _______
 
